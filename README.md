@@ -4,6 +4,7 @@ OSP - Open Source Projects. From Web Scraping Tools To HTML Templates.<br>
 
 <hr>
 
-# Contributing
+# <h1>Contributing</h1>
 # Support
 # Donate
+# Legal
