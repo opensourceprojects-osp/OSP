@@ -20,4 +20,4 @@ Here are the ways you can make a donation:
 </p>
 
 <h2>Disclaimer</h2>
-<p><b>⚖️ Disclaimer.</b> This is <b>not affliated</b>, endorsed or certified by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project. Use at your own risk.</p>
+<p><b>⚖️ Disclaimer.</b> This is <b>not affliated</b>, endorsed or certified by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a> and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project. Use at your own risk.</p>
