@@ -6,7 +6,7 @@
 <h2>Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a></p>
 
-<h2>Donate</h2>
+<h2>💸 Donate</h2>
 <p><b>Support the project.</b> Want to keep this project going on?<br>
 Here are the ways you can make a donation:
 <ul>
