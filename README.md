@@ -13,3 +13,4 @@ Here are the ways you can make a donation:
 2. Buy me a coffee.</p>
 
 <h2>Legal</h2>
+<p><b>Disclaimer.</b> This is <b>not affliated</b>, endorsed or certified by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project. Use at your own risk.</p>
