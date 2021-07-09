@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>✅ Get Started</h2>
+<h2>🧑🏼‍🚀 Get Started</h2>
 
 <h2>🙌 Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a></p>
