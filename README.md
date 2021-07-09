@@ -9,8 +9,10 @@
 <h2>Donate</h2>
 <p><b>Support the project.</b> Want to keep this project going on?
 Here are the ways you can make a donation:
-1. Patreon.
-2. Buy me a coffee.
+<ul>
+  <li><a href="">Patreon</a></li>
+  <li><a href="">Buy me a coffee</a></li>
+</ul>
 </p>
 
 <h2>Legal</h2>
