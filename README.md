@@ -1,7 +1,7 @@
 # OSP - Open Source Projects
 <b>OSP - Open Source Projects. From Web Scraping Tools To HTML Templates.</b><br>
 ⚡ - Powered By <a href="https://www.instagram.com/aleex.it">Alex</a>
-- Visit My <a href="">Website</a> - (Currently In Development)
+⚡ - Visit My <a href="">Website</a> - (Currently In Development)
 <hr>
 <h2>Support</h2>
 <h2>Donate</h2>
