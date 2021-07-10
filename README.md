@@ -1,10 +1,10 @@
-# 🚀🗺 OSP - Open Source Projects
+# 🗺 OSP - Open Source Projects
 <b>OSP - Open Source Projects. From Web Scraping Tools To HTML Templates.</b><br>
 
 
 <hr>
 
-<h2>Get Started</h2>
+<h2>🚀 Get Started</h2>
 <ol>
   <li>Clone the repo</li><br>
   <code>git clone https://github.com/opensourceprojects-osp/OSP</code><br><br>
