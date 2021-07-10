@@ -8,7 +8,7 @@
 
 <h2>Get Started</h2>
 <ol>
-  <li><b>Clone the repo</b></li><br>
+  <li>Clone the repo</li><br>
   <code>git clone https://github.com/opensourceprojects-osp/OSP</code><br><br>
   <li>Navigate to the directory</li><br>
   <code>cd OSP</code>
