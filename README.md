@@ -25,7 +25,7 @@ Here are the ways you can make a donation:
 </p>
 
 <tt>
-- addrs           Get all registered addressed by target photos
+- addrs\n           Get all registered addressed by target photos
 - captions        Get user's photos captions
 - comments        Get total comments of target's posts
 - followers       Get target followers
