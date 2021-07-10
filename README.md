@@ -9,7 +9,7 @@
   <li>Clone the repo</li><br>
   <code>git clone https://github.com/opensourceprojects-osp/OSP</code><br><br>
   <li>Navigate to the directory</li><br>
-  <code>cd Osintgram</code>
+  <code>cd OSP</code>
 </ol>
 
 <h2>🙌 Support</h2>
