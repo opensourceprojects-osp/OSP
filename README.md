@@ -15,14 +15,8 @@
 <h2>Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a>.</p>
 
-<h2>Donate</h2>
-<p><b>Support the project.</b> Want to keep this project going on?<br>
-Here are the ways you can make a donation:
-<ul>
-  <li><a href="">Patreon</a></li>
-  <li><a href="">Buy me a coffee</a></li>
-</ul>
-</p>
+<h2>Contributing</h2>
+<p>Have an idea or an epic project in mind? <b>Talk to us</b>. Let us work together and <b>make something great</b>. Shoot us a message at <b><a href="mailto:contact-osp@gmail.com"></a></b>.</p>
 
 <h2>Disclaimer</h2>
 <p>This is <b>not affliated</b>, <b>endorsed</b> or <b>certified</b> by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a> and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project.<br><b>Do not use the tools provided for illegal reasons.</b></p>
