@@ -8,7 +8,6 @@
 <p><code>
 # clone the repo
 git clone https://github.com/opensourceprojects-osp/OSP
-
 # change directory
 cd OSP
 </code></p>
