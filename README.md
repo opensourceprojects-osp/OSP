@@ -5,12 +5,13 @@
 <hr>
 
 <h2>Get Started</h2>
-<p><code>
-# clone the repo<br>
-git clone https://github.com/opensourceprojects-osp/OSP<br>
-# change directory<br>
-cd OSP
-</code></p>
+
+<p>
+<code># clone the repo</code>
+<code>git clone https://github.com/opensourceprojects-osp/OSP</code>
+<code># change directory</code>
+<code>cd OSP</code>
+</p>
 
 <h2>🙌 Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a></p>
