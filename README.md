@@ -20,4 +20,4 @@
 Shoot us a message at <b><a href="mailto:contact-osp@gmail.com">contact-osp@gmail.com</a></b>.</p>
 
 <h2>Disclaimer</h2>
-<p>This is <font color="red"><b>not affliated</b></font>, <b>endorsed</b> or <b>certified</b> by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a> and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project.<br><b>Do not use the tools provided for illegal reasons.</b></p>
+<p>This is <font color="red">not affliated</font>, <b>endorsed</b> or <b>certified</b> by <a href="https://www.instagram.com">Instagram</a>, <a href="https://www.twitter.com">Twitter</a> and <a href="https://www.youtube.com">YouTube</a>. This is an <b>independent</b> and <b>unofficial</b> project.<br><b>Do not use the tools provided for illegal reasons.</b></p>
