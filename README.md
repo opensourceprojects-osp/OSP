@@ -15,7 +15,7 @@
 <h2>Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a>.</p>
 
-<h2>Contributing</h2>
+<h2>Gei In Touch</h2>
 <p>Have an idea or an epic project in mind? <b>Talk to us</b>. Let us work together and <b>make something great</b>.<br>
 Shoot us a message at <b><a href="mailto:contact-osp@gmail.com">contact-osp@gmail.com</a></b>.
 <b>Read <a href="">CONTRIBUTING</a> for more information</b></p>
