@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>🚀 Get Started</h2>
+<h2>Get Started 🚀</h2>
 <ol>
   <li>Clone the repo</li><br>
   <code>git clone https://github.com/opensourceprojects-osp/OSP</code><br><br>
