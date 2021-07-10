@@ -7,9 +7,9 @@
 <h2>Get Started</h2>
 
 <p>
-<code># clone the repo</code>
-<code>git clone https://github.com/opensourceprojects-osp/OSP</code>
-<code># change directory</code>
+<code># clone the repo</code><br>
+<code>git clone https://github.com/opensourceprojects-osp/OSP</code><br>
+<code># change directory</code><br>
 <code>cd OSP</code>
 </p>
 
