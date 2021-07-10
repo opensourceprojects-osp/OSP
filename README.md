@@ -9,7 +9,8 @@
 <code>git clone https://github.com/opensourceprojects-osp/OSP</code>
 
 <dl>Some text</dl>
-<tt>Some text</tt>
+<tt>Some text kkkkkkkkk
+jjjjjjjjj</tt>
 
 <h2>🙌 Support</h2>
 <p><b>Need help?</b> <a href="">Email me</a> or send me a message on <a href="">Instagram</a>.</p>
